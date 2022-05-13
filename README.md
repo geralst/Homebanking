@@ -1,5 +1,5 @@
 # Homebanking
-Project carried out for Bootcamp EY and mindhub- <br>
+Project carried out for Bootcamp EY and mindhub. <br>
 Created in java with spring boot with Postgresql database. <br>
 It simulates a banking web page in which it contains a login and register. You can create a bank account, create debit or credit cards, in addition to requesting credits and loans.
 You can try it on heroku https://homebanking-new.herokuapp.com/web/index.html
