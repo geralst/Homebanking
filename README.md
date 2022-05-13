@@ -4,3 +4,5 @@ It simulates a banking web page in which it contains a login and register. You c
 You can try it on heroku https://homebanking-new.herokuapp.com/web/index.html
 
 ![owlbank](https://user-images.githubusercontent.com/88014735/168184084-6c3a3add-3ac6-4c1e-ab4d-7e28fc5c357d.png)
+
+You can register or use this account
